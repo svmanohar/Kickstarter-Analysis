@@ -24,8 +24,7 @@ From here, I made a PivotTable, including the newly created Years column. The re
 
 For ease of use, I also created a line graph as a PivotChart to visualize any trends in the data.
 
-![Image of Theater Outcomes]
-(resources/Theater_Outcomes_vs_Launch.png)
+![Image of Theater Outcomes](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -43,8 +42,7 @@ I used the above methodology to work through the remaining possibilities of data
 
 I also reported these values as proportions of the total number of campaigns in each bracket. I plotted them in the following chart:
 
-![Image of Outcomes vs Goals]
-(resources/Outcomes_vs_Goals.png)
+![Image of Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
